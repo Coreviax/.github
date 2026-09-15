@@ -155,14 +155,14 @@ Coreviax is built in the open, and contributions are welcome.
 
 There are many ways to participate:
 
-**💻 Build** — contribute code or integrations
-**🐛 Test** — find bugs and edge cases
-**🛡️ Secure** — propose security controls and threat scenarios
-**📖 Document** — make projects easier to understand
-**💡 Suggest** — propose capabilities and improvements
-**🧪 Benchmark** — test projects against real environments
-**👀 Review** — challenge architecture and implementation decisions
-**📢 Share** — help useful projects reach other engineers
+- **💻 Build** — contribute code or integrations
+- **🐛 Test** — find bugs and edge cases
+- **🛡️ Secure** — propose security controls and threat scenarios
+- **📖 Document** — make projects easier to understand
+- **💡 Suggest** — propose capabilities and improvements
+- **🧪 Benchmark** — test projects against real environments
+- **👀 Review** — challenge architecture and implementation decisions
+- **📢 Share** — help useful projects reach other engineers
 
 Check each repository's `CONTRIBUTING.md` before submitting contributions.
 
