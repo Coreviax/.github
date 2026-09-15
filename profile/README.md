@@ -109,18 +109,18 @@ Ideas improve when engineers can inspect them, challenge them, test them and con
 Coreviax is building an ecosystem of independent but complementary open-source projects.
 
 ```text
-                    ┌──────────────────────┐
-                    │       COREVIAX       │
-                    │ Open Source Engineering
-                    └──────────┬───────────┘
+                 ┌──────────────────────────┐
+                 │         COREVIAX         │
+                 │  Open Source Engineering │
+                 └─────────────┬────────────┘
                                │
           ┌────────────────────┼────────────────────┐
           │                    │                    │
           ▼                    ▼                    ▼
-     AI & Agents          Security            Cloud Native
+     AI & Agents           Security             Cloud Native
           │                    │                    │
           ▼                    ▼                    ▼
-     Governance           DevSecOps            Platform Eng.
+     Governance            DevSecOps            Platform Eng.
           │                    │                    │
           └────────────────────┼────────────────────┘
                                ▼
