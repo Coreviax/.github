@@ -3,7 +3,7 @@
 
 <div align="center">
 
-# ⚡ Coreviax
+#  Coreviax
 
 ### Open Source Engineering. Built for the Real World.
 
